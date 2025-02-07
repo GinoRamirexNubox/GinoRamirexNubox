@@ -6,4 +6,4 @@ Estoy en:
 
 - twitter como [@GinoRamirezB](https://twitter.com/GinoRamirezB)
 - medium como [@ginoramirezb](https://medium.com/@ginoramirezb)
-- en linkedin [aqui](https://www.linkedin.com/in/gino-ramírez-berrios-0180a732)
+- en linkedin [aqui](https://www.linkedin.com/in/gino-ramirez-dev/)
