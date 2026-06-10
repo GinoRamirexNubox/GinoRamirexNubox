@@ -64,6 +64,10 @@ Because there is nothing to build or run:
 
 - This file documents a content repo, not a software project — resist the
   urge to scaffold tooling, CI, or build configs unless the owner asks.
-- The owner (Gino Ramírez) is a Staff Software Engineer at Nubox; he lists
-  Angular, Jamstack (JavaScript, APIs, Markup), and SQL/NoSQL databases as
-  technologies he enjoys. Keep that context if expanding the profile.
+- The owner (Gino Ramírez) is **Head of Agentic Engineering** at Nubox; he
+  lists Angular, Jamstack (JavaScript, APIs, Markup), and SQL/NoSQL databases
+  as technologies he enjoys, and works with AI agents applied to software
+  development. Keep that context if expanding the profile.
+- The owner's GitHub username (used for `github-readme-stats` widgets) is
+  `GinoRamirexNubox`; the Twitter/X handle is `GinoRamirezB` — they are
+  different, don't mix them up.
